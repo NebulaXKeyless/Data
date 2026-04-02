@@ -19,7 +19,7 @@
     "IsCoreScript": 384,
     "ScriptBytecode": 0,
     "ModuleBytecode": 336,
-    "RequireBypass": 	2301
+    "EnableLoadModule": 120492344
   },
   "TaskScheduler": {
     "Pointer": 127960848,
