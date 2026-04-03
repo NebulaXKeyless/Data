@@ -8,10 +8,10 @@
   "Instance": {
     "ChildrenStart": 120,
     "ChildrenEnd": 8,
-    "ClassDescriptor": 	24,
+    "ClassDescriptor": 24,
     "ClassName": 8,
     "Name": 176,
-    "Value": 	208,
+    "Value": 208,
   },
   "Script": {
     "ModuleFlags": 378,
@@ -25,7 +25,7 @@
     "MaxFPS": 176
   },
   "Player": {
-    "LocalPlayer": 	304,
+    "LocalPlayer": 304,
     "UserId": 712
   }
 }
